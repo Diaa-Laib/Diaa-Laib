@@ -8,4 +8,5 @@ I'm a developer with a passion for web technologies and low-level programming.
 - **Hardware:** Firmware & Troubleshooting
 
 ## 🚀 Check out my work
-(You can add links to your project repositories here later)
+//(You can add links to your project repositories here later)
+//
