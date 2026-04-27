@@ -3,7 +3,7 @@
 I'm a developer with a passion for web technologies and low-level programming.
 
 ## 🛠 My Skills
-- **Web:** JavaScript, SVG, SMIL
+- **Web:** JavaScript, HTML, CSS, SVG, SMIL
 - **Programming:** C, php, python
 - **Hardware:** Firmware & Troubleshooting
 
