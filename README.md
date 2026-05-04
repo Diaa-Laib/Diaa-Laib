@@ -13,7 +13,7 @@
 
 ### 👨‍💻 About Me
 
-- 🇩🇿 Web Designer based in **Algeria**
+- <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/dz.svg" width="20"> Web Designer based in **Algeria**
 - 🎨 Specialized in **UX/UI Design & Prototyping**
 - 🧠 Focused on **Inclusive Design** and **User-Centered Experiences**
 - 🚀 Building tools for inclusion, like my **Sign Language Detector** project
