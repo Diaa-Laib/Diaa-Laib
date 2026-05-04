@@ -40,6 +40,10 @@
 <a href="https://linkedin.com/in/diaa-laib" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="diaa-laib" /></a>
 </p>
 
+<hr>
+
+### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diaa-laib&theme=dark" alt="diaa-laib streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diaa-laib&theme=dark&hide_border=false" alt="diaa-laib streak" />
 </p>
